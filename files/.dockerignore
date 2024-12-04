@@ -1,5 +1,2 @@
-__pycache__
-*.pyc
-*.pyo
-.git
-.env
+node_modules
+npm-debug.log
